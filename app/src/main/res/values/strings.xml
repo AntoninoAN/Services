@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">w4d4ex02</string>
+    <string name="lbl_btn_stop_service">STOP SERVICE</string>
+    <string name="lbl_btn_print_timestamp">Print Timestamp</string>
+</resources>
